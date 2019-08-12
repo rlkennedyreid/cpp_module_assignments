@@ -17,6 +17,8 @@
 
 # Key features:
   - Classes:
-    - Inheritance
-    - Encapsulation
-    - Move semantics
+   - Inheritance
+   - Encapsulation
+   - Move semantics
+  - Header files
+   - Include guards
